@@ -10,3 +10,5 @@ plot(t,wavef);
 xlabel('Time(s)');
 ylabel('Amplitude');
 title('Wavelength of HaydnL.wav');
+
+succ
